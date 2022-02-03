@@ -2,9 +2,9 @@
 
 - I'm Margot Paon Garcia lives in São Paulo - SP - Brazil. So I already have 10 years of experience with frontend development with html, css, js, jquery and now I -  - am working with React and updating my knowledge with new technologies
 - 
-- 🔭 I'm currently working with React and its ecosystem at CI&T  
+- 🔭 I'm currently working with React and its ecosystem at Donusw 
 - 
-- 🌱 I'm also learning about React, Gastby, Pug, Webpack, anyway
+- 🌱 I'm also learning about React, React Native
 - 
 - 🤔 I'm looking for help with SPA frameworks like React, Vue and Angular too about SwiftUI and Kotlink to mobile dev and backend to learn more and more
 - 
